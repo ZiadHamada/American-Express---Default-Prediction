@@ -1,2 +1,3 @@
-# American-Express---Default-Prediction
-Predict if a customer will default in the future
+# American-Express--Default-Prediction
+## Predict if a customer will default in the future
+
